@@ -1,0 +1,17 @@
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\bin\Debug\net8.0-windows\Horario.exe
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\bin\Debug\net8.0-windows\Horario.deps.json
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\bin\Debug\net8.0-windows\Horario.runtimeconfig.json
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\bin\Debug\net8.0-windows\Horario.dll
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\bin\Debug\net8.0-windows\Horario.pdb
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.Form1.resources
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.Properties.Resources.resources
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.AssemblyInfo.cs
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.dll
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\refint\Horario.dll
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.pdb
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\Horario.genruntimeconfig.cache
+C:\Users\Alumno\Documents\Proyectos Alex\Horario\Horario\obj\Debug\net8.0-windows\ref\Horario.dll
